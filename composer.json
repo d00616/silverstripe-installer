@@ -22,7 +22,8 @@
 		"weboftalent/mappable":"*",
 		"studiobonito/silverstripe-shortcodes":"*",
 		"i-lateral/silverstripe-googlemaps":"*",
-		"andrewhoule/silverstripe-photogallery":"*"
+		"andrewhoule/silverstripe-photogallery":"*",
+		"silverstripe/multiform":"*"
 	},
 	"require-dev": {
 		"phpunit/PHPUnit": "~3.7"
