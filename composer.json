@@ -7,7 +7,7 @@
 		"silverstripe/framework": "self.version",
 		"silverstripe/reports": "self.version",
 		"silverstripe/siteconfig": "self.version",
-		"silverstripe-themes/simple": ">=3.1.*",
+		"silverstripe-themes/simple": "*",
 		"silverstripe/spamprotection": ">=1.2.1",
 		"silverstripe/userforms": ">=3.1.0",
 		"silverstripe/tagfield":  ">=1.2.1",
