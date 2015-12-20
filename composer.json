@@ -18,7 +18,7 @@
 		"burnbright/silverstripe-shop":"*",
 		"burnbright/silverstripe-shop-shipping":"*",
 		"silverstripe/newsletter":"*",
-		"silverstripe-australia/eventmanagement":"*",
+#		"silverstripe-australia/eventmanagement":"*",
 		"weboftalent/mappable":"*",
 		"studiobonito/silverstripe-shortcodes":"*",
 		"i-lateral/silverstripe-googlemaps":"*",
